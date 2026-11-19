@@ -68,6 +68,10 @@ Prepared a report explaining the project objective, data preparation, EDA, SQL a
 - 📝 Step-by-step project report
 
 
-## 👤 About Me
+👤 About Me
 
-**[Hamsaveni Mnajunatha]**  
+**[Hamsaveni Manjunatha]**  
+[https://www.linkedin.com/in/hamsaveni-manjunatha-2337251b9/]
+
+
+https://www.linkedin.com/in/hamsaveni-manjunatha-2337251b9/
